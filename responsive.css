@@ -37,6 +37,7 @@
 
     .right-box img{
     aspect-ratio: 10 / 6;
+    width: 100%;
     }
     .right-box{
         width: 100%;
